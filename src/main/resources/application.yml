@@ -1,0 +1,5 @@
+server:
+  port: 8081
+url:
+  client: "http://localhost:8080//persons/"
+  server: "http://localhost:8081/persons"
